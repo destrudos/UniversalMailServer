@@ -120,4 +120,5 @@ This project provides a basic yet functional SMTP server setup with Docker, enab
 For any issues or contributions, please open an issue or submit a pull request on the project's GitHub repository.
 
 ## TODO
-Safety first - presented security solutions aren't secure at all. Be carefull deploing this code with ` {username:password}` stored as a list.
+
+Safety first - presented security solutions aren't secure at all. Be carefull deploing this code with `{username:password}` stored as a list.
