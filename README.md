@@ -118,3 +118,6 @@ Docker supports various logging drivers that can be used to manage container log
 This project provides a basic yet functional SMTP server setup with Docker, enabling easy deployment and testing. The provided scripts and Docker configurations ensure that you can quickly get the server up and running and send test emails to verify its functionality.
 
 For any issues or contributions, please open an issue or submit a pull request on the project's GitHub repository.
+
+## TODO
+Safety first - presented security solutions aren't secure at all. Be carefull deploing this code with ` {username:password}` stored as a list.
