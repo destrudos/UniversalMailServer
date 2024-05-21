@@ -121,4 +121,4 @@ For any issues or contributions, please open an issue or submit a pull request o
 
 ## TODO
 
-Safety first - presented security solutions aren't secure at all. Be carefull deploing this code with `{username:password}` stored as a list.
+Safety first - presented security solutions aren't secure at all. Be carefull deploing this code with `{username:password}` stored as a dictionary.
